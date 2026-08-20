@@ -1,42 +1,75 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=1000&color=00F0FF&center=true&vcenter=true&random=false&width=600&lines=%E2%9A%A1+Hey%2C+I'm+yoyror;%F0%9F%A7%A0+Vibe+Coder+%26+AI+Builder;%F0%9F%9A%80+Turning+Ideas+into+Software+via+AI;%F0%9F%92%AC+Welcome+to+my+profile!" alt="Typing SVG" />
-</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Vibe%20Coder%20%E2%9A%A1-00f0ff?style=for-the-badge&labelColor=0d1117" alt="Vibe Coder"/>
-  <img src="https://img.shields.io/badge/Powered%20By-Advanced%20AI%20%F0%9F%A4%96-a855f7?style=for-the-badge&labelColor=0d1117" alt="AI Powered"/>
-  <a href="https://t.me/yoyror"><img src="https://img.shields.io/badge/Telegram-Channel-22c55e?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram Channel"/></a>
-  <a href="https://t.me/yoyrorbot"><img src="https://img.shields.io/badge/Telegram-Bot-3b82f6?style=for-the-badge&logo=probot&logoColor=white&labelColor=0d1117" alt="Telegram Bot"/></a>
+```text
+ ██╗   ██╗ ██████╗ ██╗   ██╗██████╗  ██████╗ ██████╗ 
+ ╚██╗ ██╔╝██╔═══██╗╚██╗ ██╔╝██╔══██╗██╔═══██╗██╔══██╗
+  ╚████╔╝ ██║   ██║ ╚████╔╝ ██████╔╝██║   ██║██████╔╝
+   ╚██╔╝  ██║   ██║  ╚██╔╝  ██╔══██╗██║   ██║██╔══██╗
+    ██║   ╚██████╔╝   ██║   ██║  ██║╚██████╔╝██║  ██║
+    ╚═╝    ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=00FF66&center=true&vcenter=true&random=false&width=640&lines=%24+whoami+--role+%22Vibe+Coder+%26+AI+Software+Builder%22;%24+system.status+--check+%22ONLINE+%E2%80%A2+100%25+ACCELERATED%22;%24+ai.copilot+--mode+%22PAIR_PROGRAMMING_ACTIVE%22;%24+echo+%22Building+the+future+at+the+speed+of+thought%22" alt="Terminal Prompt" />
+
+<p>
+  <a href="https://t.me/yoyror"><img src="https://img.shields.io/badge/COMM_CHANNEL-TELEGRAM-00FF66?style=for-the-badge&logo=telegram&logoColor=black&labelColor=003311" /></a>
+  <a href="https://t.me/yoyrorbot"><img src="https://img.shields.io/badge/BOT_UNIT-ONLINE-00FF66?style=for-the-badge&logo=probot&logoColor=black&labelColor=003311" /></a>
+  <a href="https://github.com/yoyror"><img src="https://img.shields.io/badge/ROLE-VIBE_CODER-00FF66?style=for-the-badge&logo=powershell&logoColor=black&labelColor=003311" /></a>
 </p>
+
+</div>
 
 ---
 
-### 🧠 `Tech & AI Arsenal // Стек`
+```bash
+$ yoyror --sysinfo
+┌───────────────────────┬────────────────────────────────────────────────────────┐
+│ Parameter             │ Value                                                  │
+├───────────────────────┼────────────────────────────────────────────────────────┤
+│ User & Identity       │ yoyror [Vibe Coder / AI-Assisted Creator]              │
+│ Architecture          │ Human + Advanced AI Pair-Programming                   │
+│ Primary Focus         │ Web Applications, Telegram Ecosystem & Custom Tools    │
+│ Philosophy            │ Turning high-level concepts into code via AI Prompts   │
+│ Environment Status    │ ACTIVE & EVOLVING 🟢                                   │
+└───────────────────────┴────────────────────────────────────────────────────────┘
+```
+
+---
+
+```bash
+$ yoyror --tech-stack --view-all
+> [CORE LANGUAGES] Python • JavaScript (ES6+) • TypeScript • HTML5 • CSS3 / SCSS
+> [FRAMEWORKS]     Svelte • React • Tailwind CSS • Node.js
+> [INFRASTRUCTURE] Git • GitHub Actions • Docker • Linux / Bash • Nginx • PostgreSQL
+> [DEV TOOLS]      VS Code • PowerShell • Figma
+```
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,svelte,react,nodejs,tailwind" height="42" alt="Web & Core" />
-</div>
-<br>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions,docker,linux,nginx,postgres,figma" height="42" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,svelte,react,nodejs,tailwind" height="42" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions,docker,linux,nginx,postgres,figma" height="42" />
 </div>
 
 ---
 
-### 📊 `GitHub Activity // Статистика`
+```bash
+$ yoyror --metrics --fetch-stats
+```
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=yoyror&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=ru&title_color=00f0ff&icon_color=a855f7&text_color=94a3b8&bg_color=0d1117" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yoyror&theme=tokyonight&layout=compact&hide_border=true&locale=ru&title_color=00f0ff&text_color=94a3b8&bg_color=0d1117" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yoyror&theme=matrix&show_icons=true&hide_border=true&count_private=true&locale=ru" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yoyror&theme=matrix&layout=compact&hide_border=true&locale=ru" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoyror&theme=tokyonight" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoyror&theme=matrix" width="98%" />
 </p>
 
 ---
 
-### 🐍 `Contribution Graph Game // Змейка активности`
+```bash
+$ yoyror --heatmap --exec-snake
+```
 
 <p align="center">
   <picture>
@@ -45,3 +78,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/yoyror/yoyror/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
+
+<div align="center">
+  <code>// Session closed: yoyror@github:~$ exit 0</code>
+</div>
