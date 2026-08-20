@@ -12,6 +12,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=00FF66&center=true&vcenter=true&random=false&width=640&lines=%24+whoami+--role+%22Vibe+Coder+%26+AI+Software+Builder%22;%24+system.status+--check+%22ONLINE+%E2%80%A2+100%25+ACCELERATED%22;%24+ai.copilot+--mode+%22PAIR_PROGRAMMING_ACTIVE%22;%24+echo+%22Building+the+future+at+the+speed+of+thought%22" alt="Terminal Prompt" />
 
 <p>
+  <a href="https://yoyror.github.io"><img src="https://img.shields.io/badge/LIVE_SITE-YOYROR.GITHUB.IO-00FF66?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=003311" /></a>
   <a href="https://t.me/yoyror"><img src="https://img.shields.io/badge/COMM_CHANNEL-TELEGRAM-00FF66?style=for-the-badge&logo=telegram&logoColor=black&labelColor=003311" /></a>
   <a href="https://t.me/yoyrorbot"><img src="https://img.shields.io/badge/BOT_UNIT-ONLINE-00FF66?style=for-the-badge&logo=probot&logoColor=black&labelColor=003311" /></a>
   <a href="https://github.com/yoyror"><img src="https://img.shields.io/badge/ROLE-VIBE_CODER-00FF66?style=for-the-badge&logo=powershell&logoColor=black&labelColor=003311" /></a>
