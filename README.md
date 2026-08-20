@@ -26,20 +26,12 @@
 ### 📊 `GitHub Activity // Статистика`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoyror&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=ru&title_color=00f0ff&icon_color=a855f7&text_color=94a3b8&bg_color=0d1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyror&theme=tokyonight&layout=compact&hide_border=true&locale=ru&title_color=00f0ff&text_color=94a3b8&bg_color=0d1117" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yoyror&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=ru&title_color=00f0ff&icon_color=a855f7&text_color=94a3b8&bg_color=0d1117" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yoyror&theme=tokyonight&layout=compact&hide_border=true&locale=ru&title_color=00f0ff&text_color=94a3b8&bg_color=0d1117" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoyror&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=a855f7&currStreakNum=00f0ff" />
-</p>
-
----
-
-### 🏆 `Trophies // Достижения`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yoyror&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoyror&theme=tokyonight" width="98%" />
 </p>
 
 ---
