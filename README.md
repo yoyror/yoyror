@@ -1,90 +1,55 @@
-<h1 align="center">🐉 yoyror / developer </h1>
-
-###
-
-<p align="center">
-  <a href="https://t.me/yoyror"><img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"/></a>
-  <a href="https://t.me/yoyrorbot"><img src="https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=probot&logoColor=white" alt="Telegram Bot"/></a>
-</p>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=1000&color=00F0FF&center=true&vcenter=true&random=false&width=600&lines=%E2%9A%A1+Hey%2C+I'm+yoyror;%F0%9F%A7%A0+Vibe+Coder+%26+AI+Builder;%F0%9F%9A%80+Turning+Ideas+into+Software+via+AI;%F0%9F%92%AC+Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-</div>
-
-###
-
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=yoyror&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru" />
+  <img src="https://img.shields.io/badge/Role-Vibe%20Coder%20%E2%9A%A1-00f0ff?style=for-the-badge&labelColor=0d1117" alt="Vibe Coder"/>
+  <img src="https://img.shields.io/badge/Powered%20By-Advanced%20AI%20%F0%9F%A4%96-a855f7?style=for-the-badge&labelColor=0d1117" alt="AI Powered"/>
+  <a href="https://t.me/yoyror"><img src="https://img.shields.io/badge/Telegram-Channel-22c55e?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram Channel"/></a>
+  <a href="https://t.me/yoyrorbot"><img src="https://img.shields.io/badge/Telegram-Bot-3b82f6?style=for-the-badge&logo=probot&logoColor=white&labelColor=0d1117" alt="Telegram Bot"/></a>
 </p>
 
-###
+---
+
+### 🧠 `Tech & AI Arsenal // Стек`
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,svelte,react,nodejs,tailwind" height="42" alt="Web & Core" />
+</div>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions,docker,linux,nginx,postgres,figma" height="42" alt="DevOps & Tools" />
+</div>
+
+---
+
+### 📊 `GitHub Activity // Статистика`
 
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=yoyror&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yoyror&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=ru&title_color=00f0ff&icon_color=a855f7&text_color=94a3b8&bg_color=0d1117" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyror&theme=tokyonight&layout=compact&hide_border=true&locale=ru&title_color=00f0ff&text_color=94a3b8&bg_color=0d1117" width="49%" />
 </p>
 
-###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoyror&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=a855f7&currStreakNum=00f0ff" />
+</p>
+
+---
+
+### 🏆 `Trophies // Достижения`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yoyror&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### 🐍 `Contribution Graph Game // Змейка активности`
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yoyror/yoyror/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yoyror/yoyror/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/yoyror/yoyror/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/yoyror/yoyror/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
