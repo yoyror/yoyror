@@ -52,18 +52,6 @@ $ yoyror --tech-stack --view-all
 ---
 
 ```bash
-$ yoyror --music --spotify-stream
-```
-
-<p align="center">
-  <a href="https://open.spotify.com/user/317jdkw5r5snuo2fw4pzbo653dxa" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Spotify-yoyror%20%7C%20Listen%20on%20Spotify-00FF66?style=for-the-badge&logo=spotify&logoColor=black&labelColor=003311" alt="Spotify" />
-  </a>
-</p>
-
----
-
-```bash
 $ yoyror --metrics --fetch-stats
 ```
 
