@@ -15,26 +15,25 @@
   <a href="https://yoyror.github.io"><img src="https://img.shields.io/badge/LIVE_SITE-YOYROR.GITHUB.IO-00FF66?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=003311" /></a>
   <a href="https://t.me/yoyror"><img src="https://img.shields.io/badge/COMM_CHANNEL-TELEGRAM-00FF66?style=for-the-badge&logo=telegram&logoColor=black&labelColor=003311" /></a>
   <a href="https://t.me/yoyrorbot"><img src="https://img.shields.io/badge/BOT_UNIT-ONLINE-00FF66?style=for-the-badge&logo=probot&logoColor=black&labelColor=003311" /></a>
-  <a href="https://open.spotify.com/user/317jdkw5r5snuo2fw4pzbo653dxa"><img src="https://img.shields.io/badge/MUSIC-SPOTIFY-00FF66?style=for-the-badge&logo=spotify&logoColor=black&labelColor=003311" /></a>
+  <a href="https://github.com/yoyror"><img src="https://img.shields.io/badge/ROLE-VIBE_CODER-00FF66?style=for-the-badge&logo=powershell&logoColor=black&labelColor=003311" /></a>
 </p>
 
 </div>
 
 ---
 
-### 💻 System Information
-
-| Parameter | Details |
-|---|---|
-| **User & Identity** | [**yoyror**](https://github.com/yoyror) `[Vibe Coder / AI-Assisted Creator]` |
-| **Architecture** | Human + Advanced AI Pair-Programming |
-| **Primary Focus** | Web Applications, Telegram Ecosystem & Custom Tools |
-| **Official Portal** | [**yoyror.github.io**](https://yoyror.github.io) |
-| **Telegram Channel** | [**@yoyror**](https://t.me/yoyror) |
-| **Telegram Bot** | [**@yoyrorbot**](https://t.me/yoyrorbot) |
-| **Spotify Profile** | [**yoyror on Spotify**](https://open.spotify.com/user/317jdkw5r5snuo2fw4pzbo653dxa) |
-| **Business Email** | [**yoyrorpartner@gmail.com**](mailto:yoyrorpartner@gmail.com) |
-| **Environment Status** | **ACTIVE & EVOLVING 🟢** |
+```bash
+$ yoyror --sysinfo
+┌───────────────────────┬────────────────────────────────────────────────────────┐
+│ Parameter             │ Value                                                  │
+├───────────────────────┼────────────────────────────────────────────────────────┤
+│ User & Identity       │ yoyror [Vibe Coder / AI-Assisted Creator]              │
+│ Architecture          │ Human + Advanced AI Pair-Programming                   │
+│ Primary Focus         │ Web Applications, Telegram Ecosystem & Custom Tools    │
+│ Philosophy            │ Turning high-level concepts into code via AI Prompts   │
+│ Environment Status    │ ACTIVE & EVOLVING 🟢                                   │
+└───────────────────────┴────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -51,18 +50,6 @@ $ yoyror --tech-stack --view-all
   <br><br>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions,docker,linux,nginx,postgres,figma" height="42" />
 </div>
-
----
-
-```bash
-$ yoyror --music --spotify-listening
-```
-
-<p align="center">
-  <a href="https://open.spotify.com/user/317jdkw5r5snuo2fw4pzbo653dxa" target="_blank" rel="noopener noreferrer">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317jdkw5r5snuo2fw4pzbo653dxa&count=1" alt="Spotify Listening" />
-  </a>
-</p>
 
 ---
 
